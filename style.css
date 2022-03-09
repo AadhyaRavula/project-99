@@ -1,0 +1,49 @@
+#button
+{
+  background-color: palevioletred;  
+  border-radius: 20%;
+}
+
+body
+{
+    background-image: url("https://www.creativefabrica.com/wp-content/uploads/2021/01/28/Colorful-Watercolor-Background-Graphics-8158369-1.jpg");
+    color: black;
+    font-family: cursive;
+}
+
+.copy_right_footer {
+  position: fixed;
+  color:black;
+  bottom: 0;
+  width: 100%;
+  background-color:palevioletred;
+  line-height: 3;
+  text-align: center;
+}
+
+#camera
+{
+  border:1px solid palevioletred;
+  width: 500px;
+  height: 400px;
+}
+
+.column
+{
+  display: inline;
+padding: 50px;
+}
+
+img
+{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+
+img:hover{
+  border-radius: 140px;
+}
